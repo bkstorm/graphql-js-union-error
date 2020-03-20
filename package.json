@@ -1,0 +1,12 @@
+{
+  "name": "graphql-js-union-error",
+  "version": "1.0.0",
+  "description": "Repository to reproduce union error with graphql-js",
+  "main": "index.js",
+  "repository": "git@github.com:bkstorm/graphql-js-union-error.git",
+  "author": "Nguyen Hoang <hoangnv@review-ty.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^14.6.0"
+  }
+}
